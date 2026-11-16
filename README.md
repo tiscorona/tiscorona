@@ -1,7 +1,7 @@
 # Hi, I'm Antonio 👋 
 
 # 🧠 About Me
-I am a graduate student studying applied statistics. I am currently learning how to understand better the data and deliver my insights on data. 
+I am a graduate student studying applied statistics. I am currently learning to understand data and deliver my insights on data. 
 
 - 🔭 I’m currently working on applying topics based on my Regression Analysis utilizling linear regression and much more. 
 - 🌱 I’m currently learning statistical inference, linear regression and the basics in bioinformatics.
